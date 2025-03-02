@@ -1,0 +1,44 @@
+{
+  "name": "picontent",
+  "version": "1.0.0",
+  "description": "AI-powered social media content generator for brands and companies",
+  "module": "index.ts",
+  "type": "module",
+  "private": false,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "keywords": [
+    "AI",
+    "content-generator",
+    "social-media",
+    "branding",
+    "marketing",
+    "ai-content-generator",
+    "ai-copywriting",
+    "ai-social-media",
+    "ai-branding",
+    "ai-marketing"
+  ],
+  "author": "Pimatis Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pimatis/picontent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pimatis/picontent/issues"
+  },
+  "homepage": "https://github.com/Pimatis/picontent#readme",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "axios": "^1.8.1",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
